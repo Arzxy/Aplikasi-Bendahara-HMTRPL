@@ -29,7 +29,7 @@ Aplikasi ini dirancang untuk penggunaan internal (ORGANISASI) dan **tidak memerl
 ### 1️⃣ Install SQLite ODBC Driver 32-bit
 Aplikasi ini menggunakan **SQLite melalui ODBC**, sehingga driver **WAJIB di-install**.
 
-Install driver di folder "Requirement Here !"
+Install driver di folder "`Requirement Here !`"
 Pilih salah satu file berikut:
 - `sqliteodbc_w32.exe`
 - `sqliteodbc_w32.exe`
