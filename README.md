@@ -1,6 +1,6 @@
 # 📊 Sistem Bendahara Desktop
 
-Sistem Bendahara Desktop adalah aplikasi berbasis **VB.NET** dengan database **SQLite (ODBC)** yang digunakan untuk mengelola data keuangan bendahara secara **offline**, termasuk penyimpanan bukti transaksi berupa foto dan ekspor data ke Excel.
+Aplikasi Bendahara HMTRPL adalah aplikasi berbasis **VB.NET** dengan database **SQLite (ODBC)** yang digunakan untuk mengelola data keuangan bendahara secara **offline**, termasuk penyimpanan bukti transaksi berupa foto dan ekspor data ke Excel.
 
 Aplikasi ini dirancang untuk penggunaan internal (ORGANISASI) dan **tidak memerlukan koneksi internet**.
 
