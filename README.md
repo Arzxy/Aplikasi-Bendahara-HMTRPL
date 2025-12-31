@@ -32,7 +32,7 @@ Aplikasi ini menggunakan **SQLite melalui ODBC**, sehingga driver **WAJIB di-ins
 Install driver di folder "`Requirement Here !`"
 Pilih salah satu file berikut:
 - `sqliteodbc_w32.exe`
-- `sqliteodbc_w32.exe`
+- `sqliteodbc_w64.exe`
 
 ⚠️ Pastikan **32-bit (x86)**  
 ⚠️ Jangan install versi `w64`
