@@ -55,17 +55,12 @@ Jika driver tidak muncul, berarti instalasi belum benar.
 
 ### 3️⃣ Menjalankan Aplikasi
 Pastikan struktur folder aplikasi sebagai berikut:
+
 Aplikasi Bendahara HMTRPL/
-│
 ├── Aplikasi Bendahara HMTRPL.exe
 ├── bendahara.db
-│
 ├── nota/
-│   └── ...
-│
-│
-└── Requirement Here !/              (Untuk Aplikasi)
-    └── ...
+└── Requirement Here !/ (Penting)
 
 Jalankan aplikasi dengan cara:
 - Double-click `Aplikasi Bendahara HMTRPL.exe`
