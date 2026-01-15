@@ -238,14 +238,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Aplikasi Bendahara HMTRPL.exe" size="254976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Aplikasi Bendahara HMTRPL.exe" size="255488">
       <assemblyIdentity name="Aplikasi Bendahara HMTRPL" version="1.2.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>UD/B9nXxtj2NG0dWH8C99rz4Tbg=</dsig:DigestValue>
+        <dsig:DigestValue>yKjeK+CllyD+EbJh5wq2fZl6OWc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
